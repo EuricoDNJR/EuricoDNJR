@@ -8,3 +8,5 @@
 :dart:TRYHACKME PROFILE: https://tryhackme.com/p/c0r3
 
 :monocle_face:Currently learning: HTML, CSS and JS.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EuricoDNJR)](https://github.com/anuraghazra/github-readme-stats)
