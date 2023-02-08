@@ -9,4 +9,4 @@
 
 :monocle_face:Currently learning: HTML, CSS and JS.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EuricoDNJR)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EuricoDNJR&count_private=true)
