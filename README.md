@@ -1,7 +1,7 @@
 ![Hello World (1)](https://user-images.githubusercontent.com/67143213/116002490-5ef7a280-a5d0-11eb-9dcc-bace97f0e494.png)
 
 <div>
-  <a href="https://github.com/nomevini">
+  <a href="https://github.com/EuricoDNJR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EuricoDNJR&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuricoDNJR&layout=compact&langs_count=7&theme=white"/>
 </div>
