@@ -12,9 +12,10 @@
   </a>
 </p>
 <h3>Some Profiles...</h3>
-<p>:dart:URI PROFILE: https://www.urionlinejudge.com.br/judge/pt/profile/349102</p>
-<p>:dart:TRYHACKME PROFILE: https://tryhackme.com/p/c0r3</p>
-
+<p>:dart:URI: https://www.urionlinejudge.com.br/judge/pt/profile/349102</p>
+<p>:dart:LEETCODE: https://leetcode.com/massaultyplay/</p>
+<p>:dart:TRYHACKME: https://tryhackme.com/p/c0r3</p>
+  
 <h3>:monocle_face:Currently learning:</h3>
 <p><img src="https://skillicons.dev/icons?i=js,html,css,docker"/></p>
 
