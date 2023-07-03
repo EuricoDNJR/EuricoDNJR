@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/EuricoDNJR">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=EuricoDNJR&show_icons=true&theme=dark">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=EuricoDNJR&show_icons=true&theme=dark&include_all_commits=true">
 </p>
 
 <p align="center">
