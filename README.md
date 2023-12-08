@@ -15,7 +15,7 @@
 <p> LEETCODE: https://leetcode.com/massaultyplay/</p>
 <p> TRYHACKME: https://tryhackme.com/p/c0r3</p>
   
-<h3>:monocle_face:Currently learning:</h3>
+<h3>🧐Currently learning:</h3>
 <p><img src="https://skillicons.dev/icons?i=js,html,css,docker"/></p>
 
 <h3>Contact</h3>
