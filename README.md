@@ -11,9 +11,9 @@
   </a>
 </p>
 <h3>Some Profiles...</h3>
-<p>:dart:URI: https://www.urionlinejudge.com.br/judge/pt/profile/349102</p>
-<p>:dart:LEETCODE: https://leetcode.com/massaultyplay/</p>
-<p>:dart:TRYHACKME: https://tryhackme.com/p/c0r3</p>
+<p> URI: https://www.urionlinejudge.com.br/judge/pt/profile/349102</p>
+<p> LEETCODE: https://leetcode.com/massaultyplay/</p>
+<p> TRYHACKME: https://tryhackme.com/p/c0r3</p>
   
 <h3>:monocle_face:Currently learning:</h3>
 <p><img src="https://skillicons.dev/icons?i=js,html,css,docker"/></p>
