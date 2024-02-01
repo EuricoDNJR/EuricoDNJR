@@ -24,4 +24,4 @@
   <a href ="euricojunior1011@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  </div>
 
-![snake gif](https://github.com/EuricoDNJR/EuricoDNJR/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/EuricoDNJR/EuricoDNJR/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
