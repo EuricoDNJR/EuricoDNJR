@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">  
-  <h2>🧐Currently learning:</h2>
+  <h2>🧐Currently learning🧐</h2>
   <br>
   <p><img src="https://skillicons.dev/icons?i=js,html,css,docker"/></p>
 </div>
