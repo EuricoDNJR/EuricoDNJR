@@ -55,14 +55,15 @@
   <a href="https://www.linkedin.com/in/eurico-junior-5b54a625b/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href ="euricojunior1011@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  </div>
-
+ 
 <div align="center">
   <h2>:man_technologist: Some Profiles :man_technologist:</h2>
   <br>
-  <p> URI: https://www.urionlinejudge.com.br/judge/pt/profile/349102</p>
-  <p> LEETCODE: https://leetcode.com/massaultyplay/</p>
-  <p> TRYHACKME: https://tryhackme.com/p/c0r3</p>
+  <a href="https://leetcode.com/massaultyplay/" target="_blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=222222&logo=LeetCode&logoColor=FFA116&label="></a>
+  <a href="https://tryhackme.com/p/c0r3" target="_blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=TryHackMe&color=212C42&logo=TryHackMe&logoColor=FFFFFF&label="></a>
 </div>
+
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
