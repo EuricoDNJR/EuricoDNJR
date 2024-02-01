@@ -1,15 +1,36 @@
-![Hello World (1)](https://user-images.githubusercontent.com/67143213/116002490-5ef7a280-a5d0-11eb-9dcc-bace97f0e494.png)
+<div align="right">
+    <img src="https://komarev.com/ghpvc/?username=EuricoDNJR" alt="Profile Views Counter">
+</div>
 
-<p align="center">
-  <a href="https://github.com/EuricoDNJR">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EuricoDNJR&show_icons=true&theme=transparent&include_all_commits=true" />
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/67143213/116002490-5ef7a280-a5d0-11eb-9dcc-bace97f0e494.png" alt="My image")
+</div>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,linux,github,py,git,c&perline=3" />
-  </a>
-</p>
+<div align="center">
+  <h2 align="center">⚡ Stats ⚡</h2>
+  <br>
+  <div align="center">
+    <a href="https://github.com/EuricoDNJR">
+      <img width=390 src="https://github-readme-stats.vercel.app/api?username=EuricoDNJR&show_icons=true&theme=transparent&include_all_commits=true&border_radius=10" alt="Readme Stats" />
+    </a>
+    <a href="https://git.io/streak-stats">
+      <img width=410 src="https://streak-stats.demolab.com/?user=EuricoDNJR&theme=transparent&border_radius=10" alt="GitHub Streak" />
+    </a>
+  </div>
+  <div align="center">
+    <a href="https://github.com/EuricoDNJR">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuricoDNJR&layout=compact&theme=transparent&border_radius=10&hide=jupyter%20notebook" alt="Top Languages" />
+    </a>
+  </div>
+</div>
+
+
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=py,c,mysql,fastapi,aws,linux,github,git,vscode&perline=3" />
+</div>
 
 <div align="center">  
   <h2>🧐Currently learning:</h2>
