@@ -2,9 +2,20 @@
     <img src="https://komarev.com/ghpvc/?username=EuricoDNJR" alt="Profile Views Counter">
 </div>
 
+<h1 align="center">Hi 👋, I'm Eurico Delmondes</h1>
+<h3 align="center">A backend developer from Brazil 🇧🇷</h3>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/67143213/116002490-5ef7a280-a5d0-11eb-9dcc-bace97f0e494.png" alt="My image")
 </div>
+
+<h2 align="center">🏆 Trophies 🏆</h2>
+  <br>
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=EuricoDNJR&theme=radical&title=Joined2020,Stars,Followers,Issues,Repositories,Commits,PullRequest,Experience" alt="EuricoDNJR" />
+    </a>
+  </p>
 
 <div align="center">
   <h2 align="center">⚡ Stats ⚡</h2>
