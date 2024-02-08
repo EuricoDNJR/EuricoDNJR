@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Eurico Delmondes</h1>
-<h3 align="center">A backend developer from Brazil 🇧🇷</h3>
+<h3 align="center">A Back-End Developer from Brazil 🇧🇷</h3>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/67143213/116002490-5ef7a280-a5d0-11eb-9dcc-bace97f0e494.png" alt="My image")
