@@ -68,7 +68,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/EuricoDNJR/EuricoDNJR/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+  <img alt="Snake eating my contributions" src="https://github.com/EuricoDNJR/EuricoDNJR/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
   
   <br/><br/><br/>
 </div>
